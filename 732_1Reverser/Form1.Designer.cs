@@ -36,7 +36,7 @@
             // 
             // InputTextBox
             // 
-            this.InputTextBox.Location = new System.Drawing.Point(55, 71);
+            this.InputTextBox.Location = new System.Drawing.Point(55, 392);
             this.InputTextBox.Name = "InputTextBox";
             this.InputTextBox.Size = new System.Drawing.Size(472, 31);
             this.InputTextBox.TabIndex = 0;
@@ -44,7 +44,7 @@
             // 
             // ProcessButton
             // 
-            this.ProcessButton.Location = new System.Drawing.Point(55, 285);
+            this.ProcessButton.Location = new System.Drawing.Point(55, 30);
             this.ProcessButton.Name = "ProcessButton";
             this.ProcessButton.Size = new System.Drawing.Size(472, 117);
             this.ProcessButton.TabIndex = 1;
